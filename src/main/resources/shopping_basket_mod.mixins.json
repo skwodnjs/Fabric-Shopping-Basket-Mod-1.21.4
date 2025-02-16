@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "jwn.shopping_basket_mod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
